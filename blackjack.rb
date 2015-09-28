@@ -1,7 +1,7 @@
 # Blackjack game
 
 # Pseudo code
-# Initialize deck
+# Initialize deck and shuffle
 # Deal cards to dealer and player
 # Ensure one of the dealer cards is shown and the other card is not
 # All of the player's cards are displayed
